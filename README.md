@@ -6,8 +6,8 @@ Convolutional neural network built with Keras. Uses PizzaGAN labeled dataset (se
  images of pineapple pizzas!
 
 <div>
-<img src="./assets/pineapple_detected.png" alt="drawing" width="450px"/>
-<img src="./assets/not_pineapple_detected.png" alt="drawing" width="450px"/>
+<img src="./assets/pineapple_detected.png" alt="drawing" width="420px"/>
+<img src="./assets/not_pineapple_detected.png" alt="drawing" width="420px"/>
 </div>
 
 I got the idea from the Silicon Valley [not hotdog app](https://www.youtube.com/watch?v=vIci3C4JkL0).
