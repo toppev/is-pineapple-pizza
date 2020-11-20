@@ -1,4 +1,7 @@
-keras
+keras~=2.4.3
+Pillow~=7.0.0
+flask~=1.1.2
+numpy~=1.18.5
 SciPy
-Pillow
 matplotlib
+tensorflow~=2.3

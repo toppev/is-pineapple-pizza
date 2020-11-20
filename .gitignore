@@ -1,6 +1,13 @@
-.idea
-*.iml
+
+# Dataset files that shouldn't be included
 pizzaGANdata.zip
 dataset/pizzaGANdata
-dataset/training_set/pineapple/*.jpg
-dataset/training_set/not_pineapple/*.jpg
+dataset/training_set/pineapple/*.jpg**
+dataset/training_set/not_pineapple/*.jpg**
+
+# IDEA
+.idea
+*.iml
+
+# Misc
+.ipynb_checkpoints
