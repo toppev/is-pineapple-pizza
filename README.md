@@ -1,6 +1,6 @@
 # is-pineapple-pizza
 
-> What would you say if I told you there is an app on the market that could tell whether your pizza has pineapple on it.
+> What would you say if I told you there is an app on the market that could tell whether your pizza has pineapple on it?
 
 Convolutional neural network built with Keras. Uses PizzaGAN labeled dataset (see the scripts in dataset/). For better accuracy add more
  images of pineapple pizzas!
