@@ -75,7 +75,7 @@ model.compile(optimizer=opt, loss='binary_crossentropy', metrics=['accuracy'])
 
 
 batch_size = 32
-# Subset 20% for training
+# Subset 20% for validation
 training_set = keras.preprocessing.image_dataset_from_directory(
     "dataset/training_set",
     validation_split=0.2,
