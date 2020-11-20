@@ -13,8 +13,8 @@ from server import app
 threshold = 0.5
 img_size = (256, 256)
 
-# To use only CPU and not any visible GPUs:
-os.environ['CUDA_VISIBLE_DEVICES'] = '-1'
+# Uncomment to use CPU instead of any visible GPUs
+# os.environ['CUDA_VISIBLE_DEVICES'] = '-1'
 
 model = load_model('../model')
 model.summary()
