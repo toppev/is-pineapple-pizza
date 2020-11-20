@@ -9,5 +9,3 @@ cd dataset
 wget http://pizzagan.csail.mit.edu/pizzaGANdata.zip
 
 unzip pizzaGANdata.zip
-
-python3 categorize.py
