@@ -6,7 +6,7 @@ Convolutional neural network built with Keras. Uses PizzaGAN labeled dataset (se
  images of pineapple pizzas!
 
 <div>
-<img src="./assets/pineapple_detected.png" alt="drawing" width="300px"/>
+<img src="./assets/pineapple_detected.png" alt="drawing" width="400px"/>
 <img src="./assets/not_pineapple_detected.png" alt="drawing" width="300px"/>
 </div>
 
