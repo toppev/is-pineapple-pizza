@@ -1,0 +1,16 @@
+version: '3.7'
+services:
+  is-pineapple:
+    container_name: is-pineapple
+    restart: unless-stopped
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "3000:8000"
+      #env_file:
+      #- .env
+    logging:
+      options:
+        max-size: "10m"
+        max-file: "5"
