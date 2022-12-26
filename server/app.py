@@ -19,7 +19,8 @@ img_size = (256, 256)
 model = load_model('../model')
 model.summary()
 
-# Very simple homepage
+# Very simple homepage, too lazy to separate into a template
+# language=HTML
 home_html = '''
     <!DOCTYPE html>
     <title>
@@ -40,6 +41,8 @@ home_html = '''
         
         <div style="position: fixed; bottom: 50px; width: 100%; text-align: center; font-size: 0.75rem;">
             <div>
+                I had no idea what I was doing. I am not responsible for any pineapple pizza related injuries.
+                <br/>
                 A better model may be coming at some point...
                 <br/>
                 Created by <a href="https://github.com/toppev">toppev</a>

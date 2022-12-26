@@ -24,3 +24,5 @@ I got the idea from the Silicon Valley [not hotdog app](https://www.youtube.com/
 2. Start with `cd server && flash run`
 3. Navigate to the development server at http://127.0.0.1:5000/
  
+
+Disclaimer: I had no idea what I was doing. I am not responsible for any pineapple pizza related injuries.
